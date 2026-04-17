@@ -25,8 +25,8 @@ export default function About() {
                 className="relative aspect-[4/5] rounded-[2rem] overflow-hidden shadow-2xl"
               >
                 <Image 
-                  src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=800" 
-                  alt="Board meeting" 
+                  src="/foto-1.jpg" 
+                  alt="Azucon - Nova Granada" 
                   fill
                   className="object-cover"
                 />
@@ -41,8 +41,8 @@ export default function About() {
                   className="relative aspect-square rounded-[2rem] overflow-hidden shadow-2xl -translate-y-12"
                 >
                   <Image 
-                    src="https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&q=80&w=600" 
-                    alt="Team working" 
+                    src="/foto-2.jpg" 
+                    alt="Equipe Azucon" 
                     fill
                     className="object-cover"
                   />
